@@ -45,7 +45,7 @@ class LoginScreen extends StatelessWidget {
 
                   // 🌍 App Title
                   Text(
-                    "KOYAA",
+                    "KOYA",
                     style: GoogleFonts.righteous(
                       fontSize: 42,
                       fontWeight: FontWeight.w600,
